@@ -1,0 +1,53 @@
+  #logo{
+    display: flex;
+    justify-content: center;
+}
+#sottotitolo{
+    display: flex;
+    justify-content: center;
+    color:blue;
+    font-weight: bold;
+    background-color: rgb(255, 244, 228);
+}
+
+ #centro{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+ }   
+
+ #metodi{
+    display: flex;
+    justify-content: center;
+ }
+#finale{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#finale2{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#finale3{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Featured{
+    color: chocolate;
+    font-weight: bold;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    color: grey;
+
+}
+#focaccia{
+    font-weight: bold;
+}
+#fresh{
+    font-weight: bold;
+}
